@@ -31,8 +31,7 @@
 
 **Narrator:** Once upon a time, a mother goat lived with her seven children. One day, she had to leave home.  
 <audio controls>
-  <source src="3b/1.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
+  <source src="https://github.com/Ilya0khiriv/plays/raw/refs/heads/main/3b/1.mp3" type="audio/mpeg">
 </audio>
 
 **Mother Goat:** *(Ласково)* My dear children, I must go to the forest. Do NOT open the door! The wolf has a rough voice and black paws. Be careful!  
