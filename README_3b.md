@@ -28,7 +28,12 @@
 ### Сцена 1: Предупреждение матери  
 *(Коза-мама стоит со своими семерыми козлятами. Ведущий начинает.)*  
 
+
 **Narrator:** Once upon a time, a mother goat lived with her seven children. One day, she had to leave home.  
+<audio controls>
+  <source src="3b/1.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 
 **Mother Goat:** *(Ласково)* My dear children, I must go to the forest. Do NOT open the door! The wolf has a rough voice and black paws. Be careful!  
 
